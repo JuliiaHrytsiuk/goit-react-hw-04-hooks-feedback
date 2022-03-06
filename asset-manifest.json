@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/js/main.1593ff73.js",
+    "static/js/787.6b7abe35.chunk.js": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/js/787.6b7abe35.chunk.js",
+    "index.html": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/index.html",
+    "main.7acaea2f.css.map": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/css/main.7acaea2f.css.map",
+    "main.1593ff73.js.map": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/js/main.1593ff73.js.map",
+    "787.6b7abe35.chunk.js.map": "/JuliiaHrytsiuk/goit-react-hw-04-hooks-feedback/static/js/787.6b7abe35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.1593ff73.js"
+  ]
+}
